@@ -1,2 +1,2 @@
 # collaborate
-A repository for collaboration
+A repository for collaboration.
